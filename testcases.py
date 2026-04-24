@@ -15,3 +15,8 @@ class Lab3TestCases(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+# no, that would not have meant that the code was correct. The test cases did not test enough
+# values to assess the functionality of the code. You only need to test one number, but the number
+# must have the property n*n != 2n. so you just need to test another number that is not 2.
+# it was not a syntax error, but a logical error made by the coder.

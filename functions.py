@@ -2,5 +2,5 @@
 # Input: a number to be doubled
 # Result: a number
 def double(n:int) -> int:
-    result = n * n
+    result = 2 * n
     return result
